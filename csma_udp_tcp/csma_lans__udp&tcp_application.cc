@@ -25,13 +25,11 @@
 #include "ns3/flow-monitor-module.h"
 #include "ns3/packet-sink.h"
 
-// Default Network Topology
-//
-//       10.1.1.0
-// n0 -------------- n1   n2   n3   n4
-//    point-to-point  |    |    |    |
-//                    ================
-//                      LAN 10.1.2.0
+// CSMA protocol and LAN with 50 Nodes
+// UDP echo server on Node 50
+// first 10 Nodes  UDP echo clients
+// TCP server (use PacketSinkHelper) on Node 1
+// last 10 Nodes (41 to 50)  TCP clients (use BulkSendHelper)
 
 
 using namespace ns3;
