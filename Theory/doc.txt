@@ -10,6 +10,8 @@ Multi-threading Socket Programming: Multithreading is a process of executing
                                     multiple threads simultaneously in a single
                                     process.
 
+-------------------------------------------------------------------------------
+
                         MULTI-THREADING MODULES
 A _thread module & threading module is used for multi-threading in python,
 these modules help in synchronization and provide a lock to a thread in use.
@@ -29,6 +31,8 @@ state to unlock.
 The function thread.start_new_thread() is used to start a new thread and
 return its identifier. The first argument is the function to call and its
 second argument is a tuple containing the positional list of arguments.
+
+-------------------------------------------------------------------------------
 
 Details about TCP:
 1. TCP is a connection-oriented protocol. Connection-orientation means that
@@ -79,3 +83,11 @@ Details about UDP:
 9. UDP supports Broadcasting.
 
 10. UDP is used by DNS, DHCP, TFTP, SNMP, RIP, and VoIP.
+Polling of Socket:
+
+-------------------------------------------------------------------------------
+
+Polling of Socket: The poll() API allows the process to wait for an event to
+                   occur and to wake up the process when the event occurs.
+
+                   
