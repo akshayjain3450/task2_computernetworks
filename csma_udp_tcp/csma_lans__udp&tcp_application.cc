@@ -1,18 +1,11 @@
-/* -*- Mode:C++; c-file-style:"gnu"; indent-tabs-mode:nil; -*- */
-/*
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License version 2 as
- * published by the Free Software Foundation;
- *
- * This program is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
- */
+
+// CSMA protocol and LAN with 50 Nodes
+// UDP echo server on Node 50
+// first 10 Nodes  UDP echo clients
+// TCP server (use PacketSinkHelper) on Node 1
+// last 10 Nodes (41 to 50)  TCP clients (use BulkSendHelper)
+
+
 #include "ns3/netanim-module.h"
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
@@ -24,13 +17,6 @@
 #include "ns3/flow-monitor-module.h"
 #include "ns3/flow-monitor-module.h"
 #include "ns3/packet-sink.h"
-
-// CSMA protocol and LAN with 50 Nodes
-// UDP echo server on Node 50
-// first 10 Nodes  UDP echo clients
-// TCP server (use PacketSinkHelper) on Node 1
-// last 10 Nodes (41 to 50)  TCP clients (use BulkSendHelper)
-
 
 using namespace ns3;
 
