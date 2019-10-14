@@ -1,0 +1,366 @@
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2s client sent 1024 bytes to 10.1.2.50 port 9
+At time 2.00112s server received 1024 bytes from 10.1.2.6 port 49153
+At time 2.00112s server sent 1024 bytes to 10.1.2.6 port 49153
+At time 2.00212s server received 1024 bytes from 10.1.2.3 port 49153
+At time 2.00212s server sent 1024 bytes to 10.1.2.3 port 49153
+At time 2.00224s client received 1024 bytes from 10.1.2.50 port 9
+At time 2.00312s server received 1024 bytes from 10.1.2.7 port 49153
+At time 2.00312s server sent 1024 bytes to 10.1.2.7 port 49153
+At time 2.00512s server received 1024 bytes from 10.1.2.9 port 49153
+At time 2.00512s server sent 1024 bytes to 10.1.2.9 port 49153
+At time 2.00624s client received 1024 bytes from 10.1.2.50 port 9
+At time 2.00712s server received 1024 bytes from 10.1.2.4 port 49153
+At time 2.00712s server sent 1024 bytes to 10.1.2.4 port 49153
+At time 2.00727s client received 1024 bytes from 10.1.2.50 port 9
+At time 2.00738s client received 1024 bytes from 10.1.2.50 port 9
+At time 2.00767s server received 1024 bytes from 10.1.2.5 port 49153
+At time 2.00767s server sent 1024 bytes to 10.1.2.5 port 49153
+At time 2.00812s server received 1024 bytes from 10.1.2.8 port 49153
+At time 2.00812s server sent 1024 bytes to 10.1.2.8 port 49153
+At time 2.00912s server received 1024 bytes from 10.1.2.1 port 49153
+At time 2.00912s server sent 1024 bytes to 10.1.2.1 port 49153
+At time 2.00929s server received 1024 bytes from 10.1.2.10 port 49153
+At time 2.00929s server sent 1024 bytes to 10.1.2.10 port 49153
+At time 2.01027s client received 1024 bytes from 10.1.2.50 port 9
+At time 2.01046s client received 1024 bytes from 10.1.2.50 port 9
+At time 2.01279s client received 1024 bytes from 10.1.2.50 port 9
+At time 2.01624s client received 1024 bytes from 10.1.2.50 port 9
+At time 2.01641s client received 1024 bytes from 10.1.2.50 port 9
+At time 2.1001s server received 1024 bytes from 10.1.1.1 port 49153
+At time 2.1001s server sent 1024 bytes to 10.1.1.1 port 49153
+At time 2.2002s client received 1024 bytes from 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3s client sent 1024 bytes to 10.1.2.50 port 9
+At time 3.00012s server received 1024 bytes from 10.1.2.7 port 49153
+At time 3.00012s server sent 1024 bytes to 10.1.2.7 port 49153
+At time 3.00024s server received 1024 bytes from 10.1.2.6 port 49153
+At time 3.00024s server sent 1024 bytes to 10.1.2.6 port 49153
+At time 3.00038s server received 1024 bytes from 10.1.2.8 port 49153
+At time 3.00038s server sent 1024 bytes to 10.1.2.8 port 49153
+At time 3.00049s server received 1024 bytes from 10.1.2.4 port 49153
+At time 3.00049s server sent 1024 bytes to 10.1.2.4 port 49153
+At time 3.0007s server received 1024 bytes from 10.1.2.9 port 49153
+At time 3.0007s server sent 1024 bytes to 10.1.2.9 port 49153
+At time 3.00085s server received 1024 bytes from 10.1.2.1 port 49153
+At time 3.00085s server sent 1024 bytes to 10.1.2.1 port 49153
+At time 3.00103s server received 1024 bytes from 10.1.2.3 port 49153
+At time 3.00103s server sent 1024 bytes to 10.1.2.3 port 49153
+At time 3.00153s server received 1024 bytes from 10.1.2.5 port 49153
+At time 3.00153s server sent 1024 bytes to 10.1.2.5 port 49153
+At time 3.00241s server received 1024 bytes from 10.1.2.10 port 49153
+At time 3.00241s server sent 1024 bytes to 10.1.2.10 port 49153
+At time 3.00275s client received 1024 bytes from 10.1.2.50 port 9
+At time 3.00285s client received 1024 bytes from 10.1.2.50 port 9
+At time 3.00295s client received 1024 bytes from 10.1.2.50 port 9
+At time 3.00304s client received 1024 bytes from 10.1.2.50 port 9
+At time 3.00313s client received 1024 bytes from 10.1.2.50 port 9
+At time 3.00323s client received 1024 bytes from 10.1.2.50 port 9
+At time 3.00332s client received 1024 bytes from 10.1.2.50 port 9
+At time 3.00341s client received 1024 bytes from 10.1.2.50 port 9
+At time 3.00351s client received 1024 bytes from 10.1.2.50 port 9
+At time 3.1001s server received 1024 bytes from 10.1.1.1 port 49153
+At time 3.1001s server sent 1024 bytes to 10.1.1.1 port 49153
+At time 3.2002s client received 1024 bytes from 10.1.2.50 port 9
+FlowID: 1 (TCP 10.1.2.41 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 176bits/s
+  Mean{Delay}: 0.00126874
+  Mean{Jitter}: 0.00125642
+FlowID: 2 (TCP 10.1.2.42 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 176bits/s
+  Mean{Delay}: 0.00014024
+  Mean{Jitter}: 0.00016624
+FlowID: 3 (TCP 10.1.2.43 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 175.998bits/s
+  Mean{Delay}: 0.00035299
+  Mean{Jitter}: 0.00034799
+FlowID: 4 (TCP 10.1.2.44 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 175.999bits/s
+  Mean{Delay}: 0.00139899
+  Mean{Jitter}: 0.00074942
+FlowID: 5 (TCP 10.1.2.45 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 175.997bits/s
+  Mean{Delay}: 0.00240424
+  Mean{Jitter}: 0.00199001
+FlowID: 6 (TCP 10.1.2.46 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 175.998bits/s
+  Mean{Delay}: 0.00222976
+  Mean{Jitter}: 0.00203078
+FlowID: 7 (TCP 10.1.2.47 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 175.999bits/s
+  Mean{Delay}: 0.00223999
+  Mean{Jitter}: 0.00174467
+FlowID: 8 (TCP 10.1.2.48 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 175.999bits/s
+  Mean{Delay}: 0.00083724
+  Mean{Jitter}: 0.00077126
+FlowID: 9 (TCP 10.1.2.49 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 175.995bits/s
+  Mean{Delay}: 0.00017399
+  Mean{Jitter}: 8.32597e-05
+FlowID: 10 (TCP 10.1.2.50 / 49153 --> 10.1.2.2 / 9)
+  Tx Bytes: 220
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 175.997bits/s
+  Mean{Delay}: 0.00187624
+  Mean{Jitter}: 0.00096967
+FlowID: 11 (TCP 10.1.2.2 / 9 --> 10.1.2.42 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.662bits/s
+  Mean{Delay}: 0.000837186
+  Mean{Jitter}: 0.000624652
+FlowID: 12 (TCP 10.1.2.2 / 9 --> 10.1.2.49 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.663bits/s
+  Mean{Delay}: 0.00353764
+  Mean{Jitter}: 0.0030106
+FlowID: 13 (TCP 10.1.2.2 / 9 --> 10.1.2.43 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.664bits/s
+  Mean{Delay}: 0.000272598
+  Mean{Jitter}: 0.000495477
+FlowID: 14 (TCP 10.1.2.2 / 9 --> 10.1.2.44 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.664bits/s
+  Mean{Delay}: 0.00302907
+  Mean{Jitter}: 0.00301639
+FlowID: 15 (TCP 10.1.2.2 / 9 --> 10.1.2.48 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.666bits/s
+  Mean{Delay}: 0.00217121
+  Mean{Jitter}: 0.00167545
+FlowID: 16 (TCP 10.1.2.2 / 9 --> 10.1.2.50 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.659bits/s
+  Mean{Delay}: 0.00102113
+  Mean{Jitter}: 0.00100845
+FlowID: 17 (TCP 10.1.2.2 / 9 --> 10.1.2.41 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.666bits/s
+  Mean{Delay}: 0.00288176
+  Mean{Jitter}: 0.00235741
+FlowID: 18 (TCP 10.1.2.2 / 9 --> 10.1.2.47 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.665bits/s
+  Mean{Delay}: 0.0020208
+  Mean{Jitter}: 0.00200812
+FlowID: 19 (TCP 10.1.2.2 / 9 --> 10.1.2.45 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.665bits/s
+  Mean{Delay}: 0.000491625
+  Mean{Jitter}: 0.000341453
+FlowID: 20 (TCP 10.1.2.2 / 9 --> 10.1.2.46 / 49153)
+  Tx Bytes: 120
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 106.666bits/s
+  Mean{Delay}: 0.00269224
+  Mean{Jitter}: 0.00234145
+FlowID: 21 (UDP 10.1.1.1 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5429.5bits/s
+  Mean{Delay}: 0.100101
+  Mean{Jitter}: 0
+FlowID: 22 (UDP 10.1.2.1 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5609.08bits/s
+  Mean{Delay}: 0.00498334
+  Mean{Jitter}: 0.00413418
+FlowID: 23 (UDP 10.1.2.3 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5608.74bits/s
+  Mean{Delay}: 0.00157384
+  Mean{Jitter}: 0.00054368
+FlowID: 24 (UDP 10.1.2.4 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5609.75bits/s
+  Mean{Delay}: 0.00380384
+  Mean{Jitter}: 0.00331368
+FlowID: 25 (UDP 10.1.2.5 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5607.82bits/s
+  Mean{Delay}: 0.00459984
+  Mean{Jitter}: 0.00307468
+FlowID: 26 (UDP 10.1.2.6 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5610.21bits/s
+  Mean{Delay}: 0.00067984
+  Mean{Jitter}: 0.00043768
+FlowID: 27 (UDP 10.1.2.7 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5610.45bits/s
+  Mean{Delay}: 0.00161784
+  Mean{Jitter}: 0.00149968
+FlowID: 28 (UDP 10.1.2.8 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5609.95bits/s
+  Mean{Delay}: 0.00425034
+  Mean{Jitter}: 0.00386718
+FlowID: 29 (UDP 10.1.2.9 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5609.36bits/s
+  Mean{Delay}: 0.00290734
+  Mean{Jitter}: 0.00221018
+FlowID: 30 (UDP 10.1.2.10 / 49153 --> 10.1.2.50 / 9)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5606.16bits/s
+  Mean{Delay}: 0.00584934
+  Mean{Jitter}: 0.00343818
+FlowID: 31 (UDP 10.1.2.50 / 9 --> 10.1.2.6 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5605.35bits/s
+  Mean{Delay}: 0.00186198
+  Mean{Jitter}: 0.000743459
+FlowID: 32 (UDP 10.1.2.50 / 9 --> 10.1.2.3 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5604.47bits/s
+  Mean{Delay}: 0.00320288
+  Mean{Jitter}: 0.000914643
+FlowID: 33 (UDP 10.1.2.50 / 9 --> 10.1.2.7 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5605.52bits/s
+  Mean{Delay}: 0.0033921
+  Mean{Jitter}: 0.00075722
+FlowID: 34 (UDP 10.1.2.50 / 9 --> 10.1.2.9 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5604.81bits/s
+  Mean{Delay}: 0.00379472
+  Mean{Jitter}: 0.0013596
+FlowID: 35 (UDP 10.1.2.50 / 9 --> 10.1.2.4 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5604.99bits/s
+  Mean{Delay}: 0.00140522
+  Mean{Jitter}: 0.00114334
+FlowID: 36 (UDP 10.1.2.50 / 9 --> 10.1.2.5 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5604.29bits/s
+  Mean{Delay}: 0.00350366
+  Mean{Jitter}: 0.00161386
+FlowID: 37 (UDP 10.1.2.50 / 9 --> 10.1.2.8 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5605.16bits/s
+  Mean{Delay}: 0.0024513
+  Mean{Jitter}: 0.000110699
+FlowID: 38 (UDP 10.1.2.50 / 9 --> 10.1.2.1 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5604.64bits/s
+  Mean{Delay}: 0.0047471
+  Mean{Jitter}: 0.00237042
+FlowID: 39 (UDP 10.1.2.50 / 9 --> 10.1.2.10 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5604.11bits/s
+  Mean{Delay}: 0.00410794
+  Mean{Jitter}: 0.00300958
+FlowID: 40 (UDP 10.1.2.50 / 9 --> 10.1.1.1 / 49153)
+  Tx Bytes: 2104
+  Lost Packets: 0
+  Pkt Lost Ratio: 0
+  Throughput: 5259.67bits/s
+  Mean{Delay}: 0.100102
+  Mean{Jitter}: 0
+Final throughput with (packets received/total time): 3599.59 bps
+Final throughput with (packets received/total time): 1453.39 bps
+Total packets transmitted:110
+Total packets received: 110
+Total packets dropped: 0
+Packet Lost Ratio: 0
