@@ -197,11 +197,6 @@ main (int argc, char *argv[])
   pointToPoint.EnablePcapAll ("second");
   csma.EnablePcap ("second", csmaDevices.Get (1), true);
 
-  /*AnimationInterface anim ("l1q1.xml");
-	anim.SetConstantPosition(p2pNodes.Get(0),0.0,0.0);
-	anim.SetConstantPosition(p2pNodes.Get(1),100.0,0.0);
-	anim.SetConstantPosition(csmaNodes.Get(2),200.0,0.0);*/
-
   Ptr<FlowMonitor> flowmon;
 	  FlowMonitorHelper flowmonHelper;
 	  flowmon = flowmonHelper.InstallAll ();
